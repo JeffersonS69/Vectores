@@ -1,0 +1,3 @@
+C:/Users/ibarr/CLionProjects/untitled/vectores funciones/cmake-build-debug/CMakeFiles/vectores_funciones.dir
+C:/Users/ibarr/CLionProjects/untitled/vectores funciones/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ibarr/CLionProjects/untitled/vectores funciones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
